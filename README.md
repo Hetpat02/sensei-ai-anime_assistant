@@ -31,7 +31,7 @@ This project implements a collaborative AI system using three specialized agents
 1. Clone the repository
 2. Install dependencies:
 ```bash
-pip install crewai langchain-openai streamlit reportlab python-dotenv
+pip install -r requirements.txt
 ```
 
 3. Create a `.env` file in the project root with your API keys:
